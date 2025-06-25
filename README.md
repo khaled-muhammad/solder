@@ -26,12 +26,12 @@ The LEDs blink **alternately with a delay**, controlled purely by electronic com
 ---
 
 ## 3D View
-![3D view](https://github.com/user-attachments/assets/ad230d24-3f38-48bb-b587-ea5b2108e970)
+![Screenshot 2025-06-25 at 11 22 06 PM](https://github.com/user-attachments/assets/f9b89c93-0740-49cc-b5f9-c5fd6ab48923)
 
 ---
 
 ## PCB Layout
-![PCB](https://github.com/user-attachments/assets/165994f3-77eb-43c8-81a0-7ae2b29cac88)
+![Screenshot 2025-06-25 at 11 22 00 PM](https://github.com/user-attachments/assets/0bba68cf-db8c-4a5e-813a-d75b4fd1b00c)
 
 ---
 
